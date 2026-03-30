@@ -7,13 +7,13 @@ This project showcases my skills, education, and frontend development work.
 
 ## 🚀 Live Demo
 
-👉 **Live Website:** https://your-username.github.io/your-repo-name/
+👉 **Live Website:** https://osdrashedali.github.io/My-Portfolio/
 
 ---
 
 ## 📸 Preview
 
-![Portfolio Screenshot](images/screenshot.png)
+![Portfolio Screenshot](images/protofilo.png)
 
 ---
 
